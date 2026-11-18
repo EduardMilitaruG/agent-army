@@ -1,0 +1,7 @@
+{
+  "maxParallel": 4,
+  "idleTimeoutMin": 10,
+  "port": 4777,
+  "userName": "",
+  "autoStartDossier": true
+}

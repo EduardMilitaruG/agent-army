@@ -1,0 +1,5 @@
+[
+  {"id":"jobhunter-morning","bot":"dossier","days":["Monday","Tuesday","Wednesday","Thursday","Friday"],"at":"08:00","prompt":"Morning run: open drafts check, top 5 new jobs, and follow-ups due."},
+  {"id":"mentor-drill","bot":"mentor","days":["Monday","Tuesday","Wednesday","Thursday","Friday"],"at":"08:20","prompt":"Write today's drill."},
+  {"id":"chief-brief","bot":"chief","days":["Monday","Tuesday","Wednesday","Thursday","Friday"],"at":"08:50","prompt":"Morning brief."}
+]

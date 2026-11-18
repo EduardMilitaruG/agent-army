@@ -1,0 +1,17 @@
+# Personal data: never committed
+data/
+workspaces/
+bots.json
+bots.backup.json
+config.json
+SYSTEM.md
+docs/WORKFLOW.md
+docs/server-plan.md
+
+# Runtime markers and generated files
+scheduler/NOSLEEP
+scheduler/PAUSED
+launcher/agent-army.ico
+*.tmp
+*.log
+node_modules/
